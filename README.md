@@ -1,4 +1,4 @@
-# desktop_voice_assistant
+# Desktop_Voice_Assistant
 This project is based on application of an implementation of intelligence voice recoganization.
 
 It provide personal desktop assistant using Voice Recognition.
