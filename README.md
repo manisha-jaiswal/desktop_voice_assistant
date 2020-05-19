@@ -22,7 +22,11 @@ Interpret commands:
 
 It manage all the task such as:-
 	
-    open google searching engine, open YouTube, open wikipedia, open stack overflow, open powerpoint presentation, open gallery, open pycharm(source code), tell the current time, send email, play music. 
+    open google searching engine, open YouTube, open wikipedia, open stack overflow
+    
+    open powerpoint presentation, open gallery, open pycharm(source code)
+    
+    tell the current time, send email, play music. 
 
 Objective
   
