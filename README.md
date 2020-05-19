@@ -3,24 +3,16 @@ This project is based on application of an implementation of intelligence voice 
 
 It provide personal desktop assistant using Voice Recognition.
 
-It consists of three layers:-
+It Consists Of Three Layers:-
     
-    i. Speech to text
+    i. Speech to text - Converts audio to text
 
-    ii. Text Analysing
+    ii. Text Analysing - Converts text to something that is understandable for computer
 
-    iii. Interpret commands
+    iii. Interpret commands - Mapped computer command, go to server through internet
 
-Speech to text:
-      Converts audio to text
 
-Text Analysing:
-	    Converts text to something that is understandable for computer
-
-Interpret commands:
-	    Mapped computer command, go to server through internet
-
-It manage all the task such as:-
+It Manage All The Task Such As:-
 	
     open google searching engine, open YouTube, open wikipedia, open stack overflow
     
@@ -68,15 +60,15 @@ Module Description
 
 Requirement
 	
-      Functional Requirements
+        Functional Requirements
 		            
                 Good Microphone ,Good Speaker , Internet connection
 	
-      Software Requirements
+      	Software Requirements
 		            
                 python2.7 , pycharm
 	
-    Library Requirements
+    	 Library Requirements
 		            
                 speech_recognition , pyttsx3 , webbrowser , smtplib
 
